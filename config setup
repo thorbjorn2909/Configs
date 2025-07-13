@@ -1,0 +1,15 @@
+config setup
+
+for global theme for qt applications you need qt5ct and in the file /etc/enviroment you need the following command:
+QT_QPA_PLATFORMTHEME=qt5ct
+
+then linux updates this command might get overwritten so you also need a override file /etc/enviroment.d/qt5ct.conf with:
+QT_QPA_PLATFORMTHEME=qt5ct
+
+for gtk applications you can just install either nwg-look or lxappearance
+
+
+
+
+
+
