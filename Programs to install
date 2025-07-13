@@ -2,7 +2,7 @@
 #desktop
 waybar
 waypaper (needs swww or other wallpaper program to work)
-wofi 
+rofi (use this config: https://github.com/anhsirk0/rofi-config/tree/main)
 
 
 #for themes control
