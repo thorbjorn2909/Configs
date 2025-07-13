@@ -1,0 +1,23 @@
+
+#desktop
+waybar
+waypaper (needs swww or other wallpaper program to work)
+wofi 
+
+
+#for themes control
+qt5ct
+nwg-look
+
+#terminal
+neovim
+kickstart
+
+#general programs
+git
+htop
+browser
+
+
+
+
